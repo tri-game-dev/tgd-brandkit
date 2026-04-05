@@ -6,7 +6,7 @@ A dump bin for branding assets belonging to **Tri-Game Dev (TGD)**.
 
 This repository serves as a central storage location for all branding resources used by Tri-Game Dev, including logos, icons, color palettes, fonts, and other visual identity assets.
 
-> **Note:** Tri-Game Dev is a non-profit community organization and is **not** a registered legal entity.
+> **Note:** Tri-Game Dev is an Autonomous Collective and is **not** a registered legal entity.
 
 ## License
 
